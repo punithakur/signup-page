@@ -1,0 +1,6 @@
+.main-container{
+  margin: 40px;
+}
+.form-control:hover{
+ box-shadow: 5px 5px 5px 5px rgb(160, 142, 224);
+}
